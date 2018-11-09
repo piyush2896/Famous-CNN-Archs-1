@@ -18,7 +18,7 @@ This repository contains code as well as first edit of the blog available [here]
 
 ### Inception/GoogLeNet
 |![](images/inception.jpg)|![](images/inception_blocks.jpg)|
-|:-------------------------------:||
+|:-------------------------------:|:-:|
 |*Src: [Going deeper with convolutions](https://arxiv.org/pdf/1409.4842.pdf)*||
 
 ### ResNet
